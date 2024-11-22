@@ -6,13 +6,19 @@
 Tech Stack:
 
 Frontend: Java Swing (for the graphical user interface)
+
 Backend: Java (for handling the server-side logic and connecting to databases)
+
 Database: MySQL (for storing user and complaint data)
+
 Libraries/Frameworks:
+
 JDBC (for database connection)
 Commons IO (for handling I/O operations)
 HSQLDB (used for testing and in-memory databases)
+
 Others:
+
 JavaMail (for email notifications and communication)
 AES Encryption (for secure handling of sensitive data)
 Apache Commons Logging (for logging and debugging)
