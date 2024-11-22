@@ -23,7 +23,7 @@ class about
 		panel = new JPanel(new GridLayout(1,2,10,10));
 		mainpanel = new JPanel(new GridLayout(1,1,10,10));
 
-		text = new JLabel("<HTML><h1><b>THE STATION</b></h1><h2><i>Here For Your Safety</i></h2><h3>Kanoon K Haath is divided into multiple units, with each one responsible for a separate area of law enforcement. Our station is located in Allahabad, India, so we are able to quickly respond to local calls and reports. All of our units work extremely hard to prevent crime and accidents in the community to keep all of our residents safe.</h3><h1><b>Development Team:</b></h1><br><br><h2>Avantika soni&emsp;&emsp;&emsp;&ensp;IIB2022045<br>Shweta Pandey&emsp;&emsp;IIB2022011<br>Versha arya &emsp;&emsp;IFI2022007<br>Shreya Sinha&emsp;&emsp;IIB2022034</h2></HTML>");
+		text = new JLabel("<HTML><h1><b>THE STATION</b></h1><h2><i>Here For Your Safety</i></h2><h3>Kanoon K Haath is divided into multiple units, with each one responsible for a separate area of law enforcement. Our station is located in Allahabad, India, so we are able to quickly respond to local calls and reports. All of our units work extremely hard to prevent crime and accidents in the community to keep all of our residents safe.</h3></h2></HTML>");
 		text.setForeground(new Color(255,189,68));
 		img = new JLabel("", JLabel.CENTER);
 		BufferedImage image = null;
